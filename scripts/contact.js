@@ -7,5 +7,5 @@ const submitButton = document.getElementById("submit-button");
 submitButton.addEventListener("click", submit);
 function submit(){
     contactPage.style.fontSize = "24px";
-    contactPage.textContent = "Thank you for your message"
+    contactPage.textContent = "Thank you for your message";
 }
